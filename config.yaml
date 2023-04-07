@@ -1,0 +1,7 @@
+path: /tmp/files
+dryrun: false
+log2file: false
+olduid: 123456
+newuid: 12345
+includefolders: true
+includefiles: true
